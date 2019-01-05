@@ -1,3 +1,5 @@
+# fullstack-create-eject-typescript-hotload-hook$
+
 Minimalistic create-react-app Typescript hotloading via eject, with hooks
 ---
 
@@ -30,5 +32,12 @@ yarn add @types/node --save-dev
 ### To run
 
 ```
+npm install
 yarn start
 ```
+
+### To do
+
+* Non-eject version
+* Yarn install fails
+
