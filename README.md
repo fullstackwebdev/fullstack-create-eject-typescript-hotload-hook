@@ -1,4 +1,4 @@
-# fullstack-create-eject-typescript-hotload-hook$
+# fullstack-create-eject-typescript-hotload-hook
 
 Minimalistic create-react-app Typescript hotloading via eject, with hooks
 ---
